@@ -1,4 +1,4 @@
-# Lunar Geology for Human Exploration: Project Overview](https://github.com/hydrobot004/Lunar_Geology_for_Human_Exploration-)
+# Lunar Geology for Human Exploration: Project Overview
 * Using ENVI and MATLAB to evaluate lunar spectral signitures for identifying selected minerals
 
 ## Code and Resources Used
