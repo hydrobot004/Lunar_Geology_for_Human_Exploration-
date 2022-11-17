@@ -20,4 +20,3 @@ Results from this work will assist in the planning and design phase for establis
 ## Keywords:  planetary geology, PSR, water ice, space exploration, ENVI, Matlab, spectral signitures
 ![](/images/20.jpg) ![](/images/21.jpg)
 
-https://github.com/hydrobot004/Troy_Portfolio/blob/main/images/20.jpg
