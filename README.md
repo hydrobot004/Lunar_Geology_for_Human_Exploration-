@@ -16,6 +16,7 @@ The field of Planetary Geology is likely to grow for the foreseeable future, and
 This research aims to further assess the abundance and distribution of lunar natural resources for the feasibility of a permanent lunar base. This synthesis includes data from the Lunar Reconnaissance Orbital, Lunar Prospector, and the Moon Mineralogy Mapper. It involves mapping the geologic resources, water ice, and volatiles in the Shackleton crater and surrounding region.    
 Results from this work will assist in the planning and design phase for establishing a permanent colony, the gateway station, and the space exploration program.
 
+## To view a summary of the NSBE/NASA Talk: https://sites.google.com/view/troybernier/image-processing?authuser=0
 
 ## Keywords:  planetary geology, PSR, water ice, artemis, space exploration, ENVI, Matlab, spectral signitures
 ![](/20.jpg) ![](/21.jpg)
